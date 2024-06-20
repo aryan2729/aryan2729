@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan2729
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 
 
 <!---
