@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryancyber282h@gmail.com**
 
-- 📄 Know about my experiences [Vs-code & Zerodha Front-end Pages](Vs-code & Zerodha Front-end Pages)
+- 📄 Know about my experiences (Vs-code & Zerodha Front-end Pages)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
