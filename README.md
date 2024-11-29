@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h1 align="center">Hi , I'm Aryan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan2729&label=Profile%20views&color=0e75b6&style=flat" alt="aryan2729" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript ( DOM )**
+- 🌱 I’m currently learning **WEBDEV** **&DSA**
 
 - 📫 How to reach me **aryancyber282h@gmail.com**
 
