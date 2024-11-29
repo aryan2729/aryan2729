@@ -1,6 +1,7 @@
 # 💫 About Me:
 ✨Hello , I'm Aryan<br>🚀A passionate Web developer from India<br>📑I’m currently learning WEBDEV & DSA<br>👨‍💻Know about my experiences (Vs-code & Zerodha Front-end Pages)<br><br><br>
-
+[![](https://visitcount.itsvg.in/api?id=aryan2729&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-code-28b3aa2a7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryancode27) 
@@ -19,5 +20,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aryan2729&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aryan2729&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
