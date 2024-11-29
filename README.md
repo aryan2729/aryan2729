@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **WEBDEV** **&DSA**
+- 🌱 I’m currently learning **WEBDEV** **&** **DSA**
 
 - 📫 How to reach me **aryancyber282h@gmail.com**
 
