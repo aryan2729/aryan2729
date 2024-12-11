@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨Hello , I'm Aryan<br>🚀A passionate Web developer from India<br>📑I’m currently learning WEBDEV & DSA<br>👨‍💻Know about my experiences (Vs-code & Zerodha Front-end Pages)<br><br><br>
+✨Hello , I'm Aryan<br>🚀A passionate Web developer from India<br>📑I’m currently learning WEBDEV & DSA<br>👨‍💻Know about my experiences ( Fashion Blog & Zerodha website )<br><br><br>
 [![](https://visitcount.itsvg.in/api?id=aryan2729&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 
