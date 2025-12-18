@@ -5,8 +5,8 @@ Full-stack developer building clean, scalable web products with a strong focus o
 I work across the stack using **Next.js, React, TypeScript, and Tailwind CSS**, and enjoy combining solid engineering with thoughtful design — from interactive 3D experiences to data-driven applications.
 
 ## Selected Projects
-- **Nimbus Keyboard** — 3D interactive mechanical keyboard showcase with animations and Stripe-powered checkout.
 - **Ayutra** — AI-powered Ayurvedic diet and lifestyle platform with personalized recommendations and role-based dashboards.
+- **Nimbus Keyboard** — 3D interactive mechanical keyboard showcase with animations and Stripe-powered checkout.
 - **Second Brain** — Productivity and knowledge hub built with the MERN stack and TypeScript.
 
 ## Portfolio
