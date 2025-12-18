@@ -1,5 +1,17 @@
-# 💫 About Me:
-✨Hello , I'm Aryan<br> A web developer who loves bringing ideas to life through clean design and smooth interactions. I enjoy building things that feel alive on the web from immersive 3D experiences to simple tools that make life easier.<br><br>⚡ What I Do :<br>I work with Next.js, React, TypeScript, and Tailwind CSS, exploring everything from creative front-end design to full-stack logic. Always learning, always building.<br><br>🧠 Projects:<br>Nimbus Keyboard: A 3D interactive keyboard website with custom keycap themes, animations, and a Stripe powered shop.<br>Second Brain: A minimal productivity app to save notes and links, built with the MERN stack and TypeScript.
+# Aryan
+
+Full-stack developer building clean, scalable web products with a strong focus on UI, performance, and real-world use.
+
+I work across the stack using **Next.js, React, TypeScript, and Tailwind CSS**, and enjoy combining solid engineering with thoughtful design — from interactive 3D experiences to data-driven applications.
+
+## Selected Projects
+- **Nimbus Keyboard** — 3D interactive mechanical keyboard showcase with animations and Stripe-powered checkout.
+- **Ayutra** — AI-powered Ayurvedic diet and lifestyle platform with personalized recommendations and role-based dashboards.
+- **Second Brain** — Productivity and knowledge hub built with the MERN stack and TypeScript.
+
+## Portfolio
+https://aryancode27.vercel.app
+
 
 
 ## 🌐 Socials:
